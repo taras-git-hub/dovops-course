@@ -1,2 +1,2 @@
-# dovops-course
+# devops-course
 test repository
